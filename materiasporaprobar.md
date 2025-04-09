@@ -1,3 +1,4 @@
+# materias por aprobar
 Ciclo VII
 Redes y Sistemas Distribuidos
 Fundamentos de Inteligencia Artificial
